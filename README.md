@@ -1,10 +1,8 @@
-[PixelaUI](https://apps.apple.com/us/app/pixelaui/id1495611090) documentations.
-
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/b8934083e490ec0ece1caad79bc11475/e75c522a-bbb6-448e-b5b8-bba96816b879.png">
 
 ## About PixelaUI
 
-PixelaUI is a client application of [Pixela](https://pixe.la).  
+[PixelaUI](https://apps.apple.com/us/app/pixelaui/id1495611090) is a client application of [Pixela](https://pixe.la).  
 
 With Pixela, you can get a graph that expresses the degree of your daily various activities on a basis with a vivid gradation.  
 PixelaUI can perform many Pixela actions intuitively.  
